@@ -1,0 +1,10 @@
+receptor = receptors/example_receptor.pdbqt
+ligand = ligands/example_ligand.pdbqt
+center_x = 0.00
+center_y = 3.269
+center_z = 0.00
+size_x = 126.00
+size_y = 96.00
+size_z = 102.00
+out = results/example_output.pdbqt
+log = logs/log.txt

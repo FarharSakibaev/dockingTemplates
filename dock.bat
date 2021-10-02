@@ -1,0 +1,1 @@
+vina.exe --config configs/config.txt
